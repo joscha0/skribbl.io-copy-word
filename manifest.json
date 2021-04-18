@@ -1,0 +1,18 @@
+{
+
+    "description": "allows to select and copy the current word (if you dont know the word and want to look it up)",
+    "manifest_version": 2,
+    "name": "skribbl.io copy word",
+    "version": "1.0",
+    "icons": {
+      "48": "icon.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.skribbl.io/*"],
+        "js": ["main.js"]
+      }
+    ]
+  
+  }
