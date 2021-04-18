@@ -1,8 +1,8 @@
 # skribbl.io-copy-word
-allows you to select the current word in [skribbl.io](https://skribbl.io/)
+allows you to select and copy the current word in [skribbl.io](https://skribbl.io/) (if you don't know the word and want to look it up) 
 
 ## install
-download zip from releases
+download zip from [releases](https://github.com/joscha0/skribbl.io-copy-word/releases)
 ### chrome
 1. extract zip
 2. open `chrome://extensions/`
